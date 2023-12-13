@@ -12,8 +12,8 @@ import pandas as pd
 
 
 # read text file
-#df = pd.read_csv('humanGeno.txt', sep='\t')
-df = pd.read_csv('/work2/07475/vagheesh/stampede2/forOthers/forBIO321G/humanGeno.txt', sep='\t')
+df = pd.read_csv('humanGeno.txt', sep='\t')
+#df = pd.read_csv('/work2/07475/vagheesh/stampede2/forOthers/forBIO321G/humanGeno.txt', sep='\t')
 
 
 # In[3]:
